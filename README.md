@@ -12,3 +12,8 @@ If you are looking for:
 * my past talks and presentations, take a look at [this gist](https://gist.github.com/MateuszKubuszok/b25b4fad8c34fe96db793d7cadecbd84) :bar_chart:
 
 If you want to contact me, I suggest an email :e-mail:.
+
+I am also "present" in social media:
+* Twitter - twitter.com/MateuszKubuszok
+* Linked.in - https://www.linkedin.com/in/mateuszkubuszok
+* Mastodon - https://fosstodon.org/web/@MateuszKubuszok
