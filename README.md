@@ -14,6 +14,6 @@ If you are looking for:
 If you want to contact me, I suggest an email :e-mail:.
 
 I am also "present" in social media:
-* Twitter - twitter.com/MateuszKubuszok
+* Twitter - https://twitter.com/MateuszKubuszok
 * Linked.in - https://www.linkedin.com/in/mateuszkubuszok
 * Mastodon - https://fosstodon.org/web/@MateuszKubuszok
