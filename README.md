@@ -9,7 +9,7 @@ If you are looking for:
   * in case you speak Polish I also have a (virtually forsaken) Polish blog at [Kubuszok.pl](https://kubuszok.pl/)
 * my book about Scala and JVM, take a look at [LeanPub](https://leanpub.com/jvm-scala-book) :closed_book:
   * no, for now I am not able to publish it on paper, nor make it available in MOBI
-* my past talks and presentations, take a look at [this gist](https://gist.github.com/MateuszKubuszok/b25b4fad8c34fe96db793d7cadecbd84) :bar_chart:
+* my past talks and presentations, take a look at [this page]([https://gist.github.com/MateuszKubuszok/b25b4fad8c34fe96db793d7cadecbd84](https://kubuszok.com/presentations/)) :bar_chart:
 
 If you want to contact me, I suggest an email :e-mail:.
 
